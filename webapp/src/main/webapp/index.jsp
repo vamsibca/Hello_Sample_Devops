@@ -1,3 +1,3 @@
-<h1> Hello, Welcome to First_devOps_Project !!! </h1>
+<h2> Hello, Welcome to First_devOps_Project !!! </h2>
 <h2> Deploying on TomCat_Server </h2>
-<h3> First</h3>
+<h3> Poll_SCM</h3>
